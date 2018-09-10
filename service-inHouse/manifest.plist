@@ -29,13 +29,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.southgis.guangxiOA</string>
+                    <string>com.southgis.supervise</string>
                     <key>bundle-version</key>
-                    <string>1.1</string>
+                    <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>guangxiOA32</string>
+                    <string>湖南省测绘地理信息综合监管平台</string>
                 </dict>
             </dict>
         </array>
