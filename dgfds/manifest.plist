@@ -29,13 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.cellcom.CZT</string>
+				<string>com.southgis.HDTaxIssue</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>DGFDSStudent</string>
+				<string>生态圈直播室</string>
 			</dict>
 		</dict>
 	</array>
